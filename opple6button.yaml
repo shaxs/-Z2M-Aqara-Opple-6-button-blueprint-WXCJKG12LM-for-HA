@@ -220,7 +220,7 @@ action:
         sequence: !input "button_4_single"
       - conditions:
           - "{{ command == 'button_5_single' }}"
-         sequence: !input "button_5_single" 
+        sequence: !input "button_5_single" 
       - conditions:
           - "{{ command == 'button_6_single' }}"
         sequence: !input "button_6_single"
