@@ -1,7 +1,7 @@
 blueprint:
   name: Z2M - Aqara Opple switch 3 bands
   description:
-    "Control anything you want with Aqara Opple switch 3 bands (WXCJKG13LM).
+    "Control anything you want with Aqara Opple switch 3 bands (WXCJKG13LM)
 
     Inspired by the blueprint of @bouyssic (https://community.home-assistant.io/t/z2m-aqara-opple-4-boutons-blueprint-wxcjkg12lm/279950)
 
