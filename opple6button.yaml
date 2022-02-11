@@ -13,7 +13,7 @@ blueprint:
       description: Aqara switch to use
       selector:
         entity:
-          domain: sensor
+          domain:
           integration: mqtt
     button_1_single:
       name: Button 1 - simple click
