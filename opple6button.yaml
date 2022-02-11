@@ -1,7 +1,7 @@
 blueprint:
   name: Z2M - Aqara Opple switch 3 bands
   description:
-    "Control anything you want with Aqara Opple switch 2 bands (WXCJKG12LM).
+    "Control anything you want with Aqara Opple switch 3 bands (WXCJKG13LM).
 
     Inspired by the blueprint of @bouyssic (https://community.home-assistant.io/t/z2m-aqara-opple-4-boutons-blueprint-wxcjkg12lm/279950)
 
@@ -195,6 +195,7 @@ blueprint:
       default: []
       selector:
         action: null	
+  source_url: https://github.com/shaxs/-Z2M-Aqara-Opple-6-button-blueprint-WXCJKG12LM-for-HA/blob/main/opple6button.yaml
 mode: restart
 max_exceeded: silent
 trigger:
