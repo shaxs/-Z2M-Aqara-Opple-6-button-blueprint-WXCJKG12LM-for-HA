@@ -195,7 +195,7 @@ blueprint:
       default: []
       selector:
         action: null
- source_url: https://github.com/shaxs/-Z2M-Aqara-Opple-6-button-blueprint-WXCJKG12LM-for-HA/blob/main/opple6button.yaml
+# source_url: https://github.com/shaxs/-Z2M-Aqara-Opple-6-button-blueprint-WXCJKG12LM-for-HA/blob/main/opple6button.yaml
 mode: restart
 max_exceeded: silent
 trigger:
